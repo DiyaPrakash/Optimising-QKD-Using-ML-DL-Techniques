@@ -1,0 +1,13 @@
+# Core ML
+torch>=2.0.0
+torchvision
+numpy
+scikit-learn
+networkx
+matplotlib
+pillow
+tqdm
+scipy
+
+# Cirq for quantum simulation
+cirq>=1.0.0
